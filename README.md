@@ -1,4 +1,12 @@
+![Ana Flávia image](https://github.com/anacapdeville/anacapdeville/blob/main/Image/readme.png?raw=true)
+
 ### Hi there 👋
+
+My name is Ana Flávia and I am currently studying Software Development at Trybe. I have knowledge in React, JavaScript, HTML and CSS. I am looking for a opportunity as Front-End web developer.
+
+## 📫 Get in touch
+- Email: anaflvia@gmail.com
+- LinkedIn: linkedin.com/in/anacapdeville/
 
 <!--
 **anacapdeville/anacapdeville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

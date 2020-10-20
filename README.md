@@ -6,7 +6,7 @@ My name is Ana Flávia and I am currently studying Software Development at Trybe
 
 ## 📫 Get in touch
 - Email: anaflvia@gmail.com
-- LinkedIn: linkedin.com/in/anacapdeville/
+- LinkedIn: https://www.linkedin.com/in/anacapdeville/
 
 <!--
 **anacapdeville/anacapdeville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
